@@ -8,13 +8,19 @@
 IT Solutions, March, 2021 – Present
 
 * Developed Mobile Application for iOS and Android on Flutter cross-platform UI Engine.
+
 * Wrote high-quality and scalable code using BLoC design pattern.
+
 * Mentored and onboarded 2 new hires. Lead the team through subsequent projects.
+
 * Designed UI and developed Mobile Applications for 5 projects.
+* 
 * Developed Telegram bot on Node.js JavaScript runtime integrated in fuel delivery system using Telegraf.js library.
 
 ## TECHNICAL SKILLS
+
 *Programming languages*: Dart, JavaScript & TypeScript, Java
+
 *Tools*: Flutter, Node.js, Telegraf.js, Svelte, SvelteKit, Spring Boot, MongoDB
 
 ## EDUCATION
