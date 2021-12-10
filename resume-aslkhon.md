@@ -26,4 +26,5 @@ IT Solutions, March, 2021 – Present
 ## EDUCATION
 
 Inha University in Tashkent, 2020 – Present
+
 BSc in Computer Science
