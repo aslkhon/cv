@@ -1,11 +1,13 @@
 # Aslkhon Khoshimkhujaev
 
-## Junior Flutter Developer | Tashkent, Uzbekistan
+## Flutter Developer | Tashkent, Uzbekistan
 [Github](https://github.com/aslkhon) | [LinkdeIn](https://www.linkedin.com/in/aslkhon-khoshimkhujaev-67219917b/) | [Email](aslkhon.mail@gmail.com)
 
 ## EXPERIENCE
 
 IT Solutions, March, 2021 – Present
+
+Middle Flutter Developer
 
 * Developed Mobile Application for iOS and Android on Flutter cross-platform UI Engine.
 
