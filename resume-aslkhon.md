@@ -5,9 +5,9 @@
 
 ## EXPERIENCE
 
-IT Solutions, March, 2021 – Present
+IT Solutions, March, 2021 – January, 2022
 
-Middle Flutter Developer
+Flutter Developer
 
 * Developed Mobile Application for iOS and Android on Flutter cross-platform UI Engine.
 
@@ -18,6 +18,8 @@ Middle Flutter Developer
 * Designed UI and developed Mobile Applications for 5 projects.
 
 * Developed Telegram bot on Node.js JavaScript runtime integrated in fuel delivery system using Telegraf.js library.
+
+Ptolemay LLC - February, 2022 - Present
 
 ## TECHNICAL SKILLS
 
