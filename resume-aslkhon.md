@@ -21,6 +21,8 @@ Flutter Developer
 
 Ptolemay LLC - February, 2022 - Present
 
+Flutter Developer
+
 ## TECHNICAL SKILLS
 
 *Programming languages*: Dart, JavaScript & TypeScript, Java
